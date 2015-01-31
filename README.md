@@ -6,4 +6,6 @@ I'm hosting these solutions on GitHub because I like making my code available. P
 
 My current weapon of choice is Python 3. If I solve these problems in another language, I'll be sure to include that as well.
 
+[My CodeAbbey profile](http://www.codeabbey.com/index/user_profile/je7979)
+
 Thank you to Rodion Gorkovenko for his work on CodeAbbey.
